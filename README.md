@@ -9,6 +9,10 @@
 
     > [discord.js(V13)](https://www.npmjs.com/package/discord.js), [@discordjs/voice](https://www.npmjs.com/package/@discordjs/voice), [@discordjs/opus](https://www.npmjs.com/package/@discordjs/opus), [ytdl-core](https://www.npmjs.com/package/ytdl-core), [ytdl-core-discord](https://www.npmjs.com/package/ytdl-core-discord), [yt-search](https://www.npmjs.com/package/yt-search)를 이용해서 만들었습니다!
 
+* 코드는 어디 있나요?
+
+    > 코드는 바로 [여기](https://github.com/Ddongddi/ddongddi-music/blob/main/code)에서 확인 가능합니다!
+    
 * 이 코드를 바꿔서 사용해도 되나요?
 
     > [MIT 라이선스](https://github.com/Ddongddi/ddongddi-music/blob/main/LICENSE)를 지키면서 사용이 가능하십니다! 자세한 사항은 MIT LICENSE를 찾아보세요!
